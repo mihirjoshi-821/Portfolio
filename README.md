@@ -2,31 +2,36 @@
 ## Python | Data Science | Business Analytics
 
 # Education
-* Master of Science in Computer Application, Modern college Shivajinagar (2020-2022)
-* Bachlelor of Science in Computer Application, Abasaheb Garware College (2017-2020)
+* Master of Science in Computer Application, Modern college Shivajinagar, CGPA 9.95 (2020-2022)
+* Bachlelor of Science in Computer Application, Abasaheb Garware College, CGPA 8.34 (2017-2020)
 
-# Skills
-### Languages: * Python, HTML, CSS, Javascript, Java, Solidity *
-### ML Algorithms: * Linear/Logistics Regression, KNN, Random Forest Model *
-### Python Libraries: * Pandas, Numpy, Matplotlib, Sklearn *
-### Database: * SQL, MongoDB *
-### Data Visualization: * MS Excel/PowerPoint, Tableu, PowerBI *
-### Web Framework: * React.js, Django, Flask, Wireframe *
-### Cloud Deployment: * Heroku *
-### Cloud Services: * aws, Azure *
-### Tools: * Pycharm, VScode, Anaconda *
-### Testing: * Selenium *
+# Work Experience
+## *AI Variant(2022)
 
+## *iNeuron(2022)
 
+## *The Sparks Foundation(2022)
 
-# Internships
-* AI variant(2022)
+## *Bleetech Innovation(2019)
+* Website Development bleetech.in. Worked on the SEO. Worked on relevant industry analytics.
 
-* iNeuron(2022)
+# Key Skills
+* Data Analalysis & Visualization | Logical Thinking & Problem Solving | Written & Verbal Communication
 
-* The Sparks Foundation(2022)
+# Technical Skills
+### Languages: *Python, HTML, CSS, Javascript, Java, Solidity 
+### ML Algorithms: Linear/Logistics Regression, KNN, Random Forest Model 
+### Python Libraries: Pandas, Numpy, Matplotlib, Sklearn 
+### Database: SQL, MongoDB 
+### Data Visualization: MS Excel/PowerPoint, Tableu, PowerBI 
+### Web Framework: React.js, Django, Flask, Wireframe 
+### Cloud Deployment: Heroku 
+### Cloud Services: AWS, Azure 
+### Tools: Pycharm, VScode, Anaconda 
+### Testing: Selenium 
 
-* Bleetech Innovation(2019)
-Build the website bleetech.in. Worked on the SEO. Work on relevant industry analytics
-
-
+# Courses & Certification
+* Machine Learning- Kaggle
+* AWS
+* IBM
+* Excelr Solutions
