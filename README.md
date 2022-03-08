@@ -6,13 +6,13 @@
 * Bachlelor of Science in Computer Application, Abasaheb Garware College, CGPA 8.34 (2017-2020)
 
 # Work Experience
-## AI Variant(2022)
+* ## AI Variant(2022)
 
-## iNeuron(2022)
+* ## iNeuron(2022)
 
-## The Sparks Foundation(2022)
+* ## The Sparks Foundation(2022)
 
-## Bleetech Innovation(2019)
+* ## Bleetech Innovation(2019)
 * Website Development bleetech.in. Worked on the SEO. Worked on relevant industry analytics.
 
 # Key Skills
