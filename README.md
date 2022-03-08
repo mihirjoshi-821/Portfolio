@@ -1,5 +1,5 @@
 # Mihir Joshi
-* An aspiring Data Science Business Analyst
+Data Science-Business Analytics
 
 #Education
 *Master of Science in Computer Application, Modern college Shivajinagar (2020-2022)
