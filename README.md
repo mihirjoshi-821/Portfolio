@@ -16,19 +16,19 @@
 * Website Development bleetech.in. Worked on the SEO. Worked on relevant industry analytics.
 
 # Key Skills
-* Data Analalysis & Visualization | Logical Thinking & Problem Solving | Written & Verbal Communication
+Data Analalysis & Visualization | Logical Thinking & Problem Solving | Written & Verbal Communication
 
 # Technical Skills
-### Languages: *Python, HTML, CSS, Javascript, Java, Solidity 
-### ML Algorithms: Linear/Logistics Regression, KNN, Random Forest Model 
-### Python Libraries: Pandas, Numpy, Matplotlib, Sklearn 
-### Database: SQL, MongoDB 
-### Data Visualization: MS Excel/PowerPoint, Tableu, PowerBI 
-### Web Framework: React.js, Django, Flask, Wireframe 
-### Cloud Deployment: Heroku 
-### Cloud Services: AWS, Azure 
-### Tools: Pycharm, VScode, Anaconda 
-### Testing: Selenium 
+### Languages: *Python, HTML, CSS, Javascript, Java, Solidity*
+### ML Algorithms: *Linear/Logistics Regression, KNN, Random Forest Model* 
+### Python Libraries: *Pandas, Numpy, Matplotlib, Sklearn* 
+### Database: *SQL, MongoDB* 
+### Data Visualization: *MS Excel/PowerPoint, Tableu, PowerBI* 
+### Web Framework: *React.js, Django, Flask, Wireframe* 
+### Cloud Deployment: *Heroku* 
+### Cloud Services: *AWS, Azure* 
+### Tools: *Pycharm, VScode, Anaconda* 
+### Testing: *Selenium* 
 
 # Courses & Certification
 * Machine Learning- Kaggle
@@ -36,4 +36,4 @@
 * IBM
 * Excelr Solutions
 
-Personal Projects
+# Personal Projects
