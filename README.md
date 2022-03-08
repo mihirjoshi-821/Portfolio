@@ -19,7 +19,7 @@
 Data Analalysis & Visualization | Logical Thinking & Problem Solving | Written & Verbal Communication
 
 # Technical Skills
-### Languages: *Python, HTML, CSS, Javascript, Java, Solidity*
+### Languages: *Python, HTML, CSS, Javascript, Java, Solidity, PHP*
 ### ML Algorithms: *Linear/Logistics Regression, KNN, Random Forest Model* 
 ### Python Libraries: *Pandas, Numpy, Matplotlib, Sklearn* 
 ### Database: *SQL, MongoDB* 
@@ -37,3 +37,6 @@ Data Analalysis & Visualization | Logical Thinking & Problem Solving | Written &
 * Excelr Solutions
 
 # Personal Projects
+* Credit Card Fraud Detection with Python and Data Science
+* Farm Management System using PHP and MySQL
+* Python Automation Projects
